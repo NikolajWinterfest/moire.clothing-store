@@ -1,7 +1,7 @@
 ## О проекте
 
 <div>
-  <img src="/Moire_clothing-store.png" title="Moire" alt="Moire" width="500" height="500"/>&nbsp;
+  <img src="/Moire_clothing-store.png" title="Moire" alt="Moire" />&nbsp;
 </div>
 
 ### Цель проекта:
